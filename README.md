@@ -15,7 +15,7 @@
 
 
 
-### [Project 2: Another Cool Project](https://github.com/vishalshirse/Feane.github.io)
+### [Project 2: Feane online food order](https://github.com/vishalshirse/Feane.github.io)
 .-	Feane is an online food ordering platform that connects customers with local restaurants, allowing them to browse menus, place orders, and
 -	 have food delivered to their doorstep. The platform typically offers features like real-time order tracking, various payment options, and user reviews
 -	 to enhance the ordering experience.
